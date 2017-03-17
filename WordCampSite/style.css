@@ -20,6 +20,7 @@ body:not(.custom-background-image):after {
 	/* max-width: 1340px; */
 }
 
+/* HEADER */
 .site-header {
 	background-image: url('https://2017.manila.wordcamp.org/files/2017/03/logo_03.png');
 	padding-left: 0;
@@ -39,4 +40,9 @@ body:not(.custom-background-image):after {
 .site-header-main .main-navigation a:hover, 
 .site-header-main .main-navigation a:focus {
 	color: #fbff07;
+}
+
+/* WIDGETS */
+.widget_search {
+	border-top: 4px solid;
 }
