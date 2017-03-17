@@ -43,6 +43,6 @@ body:not(.custom-background-image):after {
 }
 
 /* WIDGETS */
-.widget_search {
+.widget-area .widget_search {
 	border-top: 4px solid;
 }
