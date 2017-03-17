@@ -1,3 +1,31 @@
 /**
  * WordCamp Manila 2017
  */
+
+.site {
+	margin: 0;
+    background-color: #ededed;
+}
+
+.site-inner {
+	background-image: url(https://2017.manila.wordcamp.org/files/2017/03/header_03.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: white;
+	/* max-width: 1340px; */
+}
+
+.site-header {
+	background-image: url('https://2017.manila.wordcamp.org/files/2017/03/logo_03.png');
+	padding-left: 0;
+    padding-right: 0;
+}
+
+.site-header-main {
+	background: black;
+    padding: 0 2%;
+}
+
+.site-branding .site-title a, .main-navigation a {
+	color: white;
+}
