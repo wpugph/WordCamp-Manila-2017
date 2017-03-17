@@ -2,6 +2,11 @@
  * WordCamp Manila 2017
  */
 
+body:not(.custom-background-image):before, 
+body:not(.custom-background-image):after {
+	display: none;
+}
+
 .site {
 	margin: 0;
     background-color: #ededed;
@@ -26,6 +31,12 @@
     padding: 0 2%;
 }
 
-.site-branding .site-title a, .main-navigation a {
+.site-header-main .site-branding .site-title a, 
+.site-header-main .main-navigation a {
 	color: white;
+}
+
+.site-header-main .main-navigation a:hover, 
+.site-header-main .main-navigation a:focus {
+	color: #fbff07;
 }
