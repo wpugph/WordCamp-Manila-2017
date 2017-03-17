@@ -42,6 +42,10 @@ body:not(.custom-background-image):after {
 	color: #fbff07;
 }
 
+.main-navigation ul ul.sub-menu li {
+	background-color: black;
+}
+
 /* WIDGETS */
 .widget-area .widget_search {
 	border-top: 4px solid;
