@@ -38,7 +38,9 @@ body:not(.custom-background-image):after {
 }
 
 .site-header-main .main-navigation a:hover, 
-.site-header-main .main-navigation a:focus {
+.site-header-main .main-navigation a:focus,
+.site-header-main .main-navigation li:hover > a, 
+.site-header-main .main-navigation li.focus > a {
 	color: #fbff07;
 }
 
