@@ -20,7 +20,10 @@ body:not(.custom-background-image):after {
 /* HEADER */
 .site-header {
 	background-image: url('https://2017.manila.wordcamp.org/files/2017/03/header_all_02_03.png');
-	padding: 0; 
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center 0;
+	padding: 47vh 0 0 0; 
     margin-bottom: 5.25em;
 }
 
