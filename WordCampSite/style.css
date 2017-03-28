@@ -48,6 +48,10 @@ body:not(.custom-background-image):after {
 	background-color: black;
 }
 
+.site-header .menu-toggle {
+	color: white;
+}
+
 /* WIDGETS */
 .widget-area .widget_search {
 	border-top: 4px solid;
