@@ -56,3 +56,8 @@ body:not(.custom-background-image):after {
 .widget-area .widget_search {
 	border-top: 4px solid;
 }
+
+/* FOOTER */
+footer.site-footer {
+    border-top: 1px solid;
+}
