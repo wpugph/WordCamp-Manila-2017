@@ -27,6 +27,11 @@ body:not(.custom-background-image):after {
     margin-bottom: 5.25em;
 }
 
+.site-branding {
+	margin-top: 1.2em;
+	margin-bottom: 1.2em;
+}
+
 .site-header-main {
 	background: black;
     padding: 0 2%;
