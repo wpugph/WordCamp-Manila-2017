@@ -24,7 +24,7 @@ body:not(.custom-background-image):after {
 	background-repeat: no-repeat;
 	background-position: center 0;
 	padding: 47vh 0 0 0; 
-    margin-bottom: 5.25em;
+	margin-bottom: 2.25em;
 }
 
 .site-branding {
@@ -55,6 +55,7 @@ body:not(.custom-background-image):after {
 
 .site-header .menu-toggle {
 	color: white;
+	
 }
 
 /* WIDGETS */
