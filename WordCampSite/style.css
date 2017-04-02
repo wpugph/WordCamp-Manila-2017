@@ -27,6 +27,10 @@ body:not(.custom-background-image):after {
 	margin-bottom: 2.25em;
 }
 
+.entry-header h1 {
+	text-align:center;
+}
+
 .site-branding {
 	margin-top: 1.2em;
 	margin-bottom: 1.2em;
