@@ -19,7 +19,7 @@ body:not(.custom-background-image):after {
 
 /* HEADER */
 .site-header {
-	background-image: url('https://2017.manila.wordcamp.org/files/2017/04/header_all_02_03_attr.jpg');
+	background-image: url('https://2017.manila.wordcamp.org/files/2017/04/header_all_attr.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center -10px;
